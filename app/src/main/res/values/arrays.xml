@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="namaMahasiswa">
+        <item>Hylda</item>
+        <item>Nakoceng</item>
+        <item>Wime</item>
+        <item>Umi</item>
+        <item>Ayu</item>
+        <item>Labs</item>
+        <item>Ipaw</item>
+        <item>Maklin</item>
+        <item>Makras</item>
+        <item>Javier</item>
+        <item>Haqiella</item>
+        <item>Jaisy</item>
+        <item>Aktam</item>
+
+    </string-array>
+</resources>
